@@ -1,2 +1,1 @@
-# app-click
-Click App
+# Click App
